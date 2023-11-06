@@ -1,3 +1,1 @@
-# wiki-mate  
-
-asdasdasdasdasd
+# wiki-mate 
