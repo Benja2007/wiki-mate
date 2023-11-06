@@ -11,15 +11,8 @@
             "name": "Launch localhost",
             "url": "http://localhost/index.html",
             "webRoot": "${workspaceFolder}"
-        },
-        {
-            "type": "firefox",
-            "request": "launch",
-            "reAttach": true,
-            "name": "Launch add-on",
-            "addonPath": "${workspaceFolder}"
-        },
-        {
+        }
+        /*{
             "request": "launch",
             "name": "Launch Program",
             "type": "node",
@@ -32,6 +25,6 @@
                 "--allow-all"
             ],
             "attachSimplePort": 9229
-        }
+        }*/
     ]
 }
